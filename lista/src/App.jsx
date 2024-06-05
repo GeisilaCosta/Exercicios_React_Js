@@ -14,7 +14,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>Lista de Compras</h1>
+      <h1>Lista de Compras Da Geisila</h1>
       <input 
         type="text" 
         value={inputValue} 
